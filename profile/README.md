@@ -1,9 +1,11 @@
 ## Royle Lab
 
-This is the GitHub organization page for Stephen Royle's lab at the University of Warwick.
+This is the GitHub organization page for Stephen Royle's lab at the University of Warwick, UK.
+
 We are a cell biology research group using imaging and quantitative analysis methods to understand how human cells work and why things go wrong in disease (see [here](https://mechanochemistry.org/Royle)).
 
 On this page, you will find forks of our major software and code projects published by members of the lab.
+
 For development versions and latest work, please check [quantixed](https://github.com/quantixed).
 
 <!--
